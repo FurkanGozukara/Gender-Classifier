@@ -10,3 +10,4 @@ Generates a new VENV and run on it. 1 Click to use.
 
 ## Download link : https://www.patreon.com/posts/92607385
 
+![gender classifier](https://github.com/FurkanGozukara/Gender-Classifier/assets/19240467/af5be368-6474-4e00-830d-ac6a28876389)
